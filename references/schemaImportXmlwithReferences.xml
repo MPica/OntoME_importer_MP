@@ -76,7 +76,7 @@
                                         <xs:element name="textProperties">
                                             <xs:complexType>
                                                 <xs:sequence>
-                                                    <xs:element name="scopeNote" minOccurs="1" maxOccurs="unbounded">
+                                                    <xs:element name="scopeNote" minOccurs="0" maxOccurs="unbounded">
                                                         <xs:complexType mixed="true">
                                                             <xs:attribute name="lang" use="required" type="xs:language"/>
                                                         </xs:complexType>
@@ -187,7 +187,7 @@
                                         <xs:element name="textProperties">
                                             <xs:complexType>
                                                 <xs:sequence>
-                                                    <xs:element name="scopeNote">
+                                                    <xs:element name="scopeNote" minOccurs="0" maxOccurs="unbounded">
                                                         <xs:complexType mixed="true">
                                                             <xs:attribute name="lang" use="required" type="xs:language" />
                                                         </xs:complexType>

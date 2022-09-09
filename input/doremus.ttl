@@ -6,11 +6,11 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-@prefix ecrm: <http://erlangen-crm.org/current/> .
+@prefix ecrm: <http://erlangen-crm.org/current/> . #6.2
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix vann: <http://purl.org/vocab/vann/> .
-@prefix efrbroo: <http://erlangen-crm.org/efrbroo/> .
+@prefix efrbroo: <http://erlangen-crm.org/efrbroo/> . #2.4
 @base <http://data.doremus.org/ontology#> .
 
 <http://data.doremus.org/ontology#> rdf:type owl:Ontology ;
@@ -71,7 +71,8 @@ skos:scopeNote rdf:type owl:AnnotationProperty .
 #################################################################
 
 ###  http://data.doremus.org/ontology#CLI198i_should_be_container_of
-mus:CLI198i_should_be_container_of rdf:type owl:ObjectProperty ;
+###  Correction par Morgane Pica, 08/09/2022 - coquille dans l'identifiant empêchant de parser correctement l'information.
+mus:CLU198i_should_be_container_of rdf:type owl:ObjectProperty ;
                                    rdfs:subPropertyOf efrbroo:CLP2i_should_be_type_of ;
                                    owl:inverseOf mus:CLU198_should_have_container ;
                                    rdfs:label "CLU198i should be container of"@en .
@@ -93,8 +94,10 @@ mus:CLU197i_should_be_binding_of rdf:type owl:ObjectProperty ;
 
 
 ###  http://data.doremus.org/ontology#CLU198_should_have_container
+###  Correction par Morgane Pica, 08/09/2022 - propriété inverse ajoutée car originellement non déclarée.
 mus:CLU198_should_have_container rdf:type owl:ObjectProperty ;
                                  rdfs:subPropertyOf efrbroo:CLP2_should_have_type ;
+                                 owl:inverseOf mus:CLU198i_should_be_the_container_of ;
                                  rdfs:domain efrbroo:F4_Manifestation_Singleton ;
                                  rdfs:range mus:M171_Container ;
                                  rdfs:label "CLU198 should have container"@en .
@@ -161,6 +164,7 @@ mus:CLU217i_should_be_playing_speed_of rdf:type owl:ObjectProperty ;
 
 
 ###  http://data.doremus.org/ontology#CLU223_should_have_number_of_tape_tracks
+### Correction par Morgane Pica - 08/09/2022 - Propriété inverse non déclarée dans l'original. 
 mus:CLU223_should_have_number_of_tape_tracks rdf:type owl:ObjectProperty ;
                                              rdfs:subPropertyOf efrbroo:CLP2_should_have_type ;
                                              rdfs:domain efrbroo:F3_Manifestation_Product_Type ;
@@ -396,7 +400,7 @@ mus:U174_has_cast_statement rdf:type owl:ObjectProperty ;
                             rdfs:label "U174 has cast statement"@en .
 
 
-###  http://data.doremus.org/ontology#U174i_is_cast_statement_of
+###  http://data.doremus.org/ontology#U174i_is_cast_statement_of-
 mus:U174i_is_cast_statement_of rdf:type owl:ObjectProperty ;
                                rdfs:subPropertyOf ecrm:P148i_is_component_of ;
                                rdfs:label "U174i is cast statement of"@en .
