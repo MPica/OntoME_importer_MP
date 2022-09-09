@@ -3,7 +3,7 @@
 This repository contains the script which transform an RDF ontology file into the format needed for its import into the [the Ontology Management Environment](https://ontome.net/), as well as small useful scripts to convert ontologies. Most scripts use the Python [rdflib library](https://github.com/RDFLib/rdflib) to import the ontology directly as a graph and write the output file directly from that graph.
 
 ## The scripts
-The scripts included here may be executed via (Jupyter Notebook)[https://jupyter.org/], if all the necessary Python libraries are installed (always see first code cell).
+The scripts included here may be executed via [Jupyter Notebook](https://jupyter.org/), if all the necessary Python libraries are installed (always see first code cell).
 * [graph_to_ontome.ipynb](graph_to_ontome.ipynb) is the main script here, transforming a serialization into the OntoME import format. Any input format supported by RDFlib may be imported here.
 * [import_crm.ipynb](import_crm.ipynb) is the state of the script before RDFlib was integrated and necessitates an RDFS-XML input file.
 * [xml_to_dict.ipynb](xml_to_dict.ipynb) uses the Python xmltodict library, to output a Json file from any XML file.
