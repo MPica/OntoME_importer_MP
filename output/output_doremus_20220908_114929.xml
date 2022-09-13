@@ -1383,7 +1383,6 @@ Cette classe permet de décrire une appellation et ses composantes linguistiques
     </property>
     <property>
       <identifierInNamespace>U191</identifierInNamespace>
-      <!--http://www.w3.org/2000/01/rdf-schema#subPropertyOf sur la propriété inverse.-->
       <label lang="en">
         <standardLabel>used equalization technique</standardLabel>
         <inverseLabel>was technique of equalization</inverseLabel>
