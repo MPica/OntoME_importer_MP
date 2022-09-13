@@ -4,6 +4,8 @@
   <standardLabel lang="en">DoReMus v0.2</standardLabel>
   <version>0.2 (05/06/2017)</version>
   <publishedAt>2018-01-17T23:59:59</publishedAt>
+  <referenceNamespace>1</referenceNamespace>
+  <referenceNamespace>6</referenceNamespace>
   <classes>
     <class>
       <identifierInNamespace>M10</identifierInNamespace>
@@ -960,34 +962,6 @@ Cette classe permet de décrire une appellation et ses composantes linguistiques
       </textProperties>
     </property>
     <property>
-      <identifierInNamespace>M187</identifierInNamespace>
-      <label lang="en">
-        <standardLabel>has multipart monographs statement</standardLabel>
-        <inverseLabel>is multipart monographs statement of</inverseLabel>
-      </label>
-      <subPropertyOf referenceNamespace="1">has component</subPropertyOf>
-      <hasDomain>None</hasDomain>
-      <hasRange>None</hasRange>
-      <textProperties>
-        <scopeNote lang="en">No scope note entered for this property.</scopeNote>
-        <example lang="en">No example provided for this property.</example>
-      </textProperties>
-    </property>
-    <property>
-      <identifierInNamespace>M189</identifierInNamespace>
-      <label lang="en">
-        <standardLabel>has main series statement</standardLabel>
-        <inverseLabel>is main series statement of</inverseLabel>
-      </label>
-      <subPropertyOf referenceNamespace="1">P148</subPropertyOf>
-      <hasDomain>None</hasDomain>
-      <hasRange>None</hasRange>
-      <textProperties>
-        <scopeNote lang="en">No scope note entered for this property.</scopeNote>
-        <example lang="en">No example provided for this property.</example>
-      </textProperties>
-    </property>
-    <property>
       <identifierInNamespace>U11</identifierInNamespace>
       <label lang="en">
         <standardLabel>has key</standardLabel>
@@ -1352,6 +1326,7 @@ Cette classe permet de décrire une appellation et ses composantes linguistiques
     <property>
       <identifierInNamespace>U187</identifierInNamespace>
       <label lang="en">
+        <!-- ARHN 12/09/2022 : Coquille sur l'URI de la propriété inverse dans le fichier originel (M187). -->
         <standardLabel>has multipart monograph statement</standardLabel>
         <inverseLabel>is multipart monograph statement of</inverseLabel>
       </label>
@@ -1380,6 +1355,7 @@ Cette classe permet de décrire une appellation et ses composantes linguistiques
     <property>
       <identifierInNamespace>U189</identifierInNamespace>
       <label lang="en">
+        <!-- ARHN 12/09/2022 : Coquille sur l'URI de la propriété inverse dans le fichier originel (M189). -->
         <standardLabel>has main series statement</standardLabel>
         <inverseLabel>is main series statement of</inverseLabel>
       </label>
@@ -2186,12 +2162,12 @@ Cette classe permet de décrire une appellation et ses composantes linguistiques
     <property>
       <identifierInNamespace>U58</identifierInNamespace>
       <label lang="en">
-        <standardLabel>has full published recording</standardLabel>
-        <inverseLabel>is full published recording of</inverseLabel>
+        <standardLabel>is full published recording of</standardLabel>
+        <inverseLabel>has full published recording</inverseLabel>
       </label>
-      <subPropertyOf referenceNamespace="1">P130i</subPropertyOf>
-      <hasDomain referenceNamespace="6">F22</hasDomain>
-      <hasRange referenceNamespace="6">F24</hasRange>
+      <subPropertyOf referenceNamespace="1">P130</subPropertyOf>
+      <hasDomain referenceNamespace="6">F24</hasDomain>
+      <hasRange referenceNamespace="6">F22</hasRange>
       <textProperties>
         <scopeNote lang="en">No scope note entered for this property.</scopeNote>
         <example lang="en">No example provided for this property.</example>
@@ -2200,12 +2176,12 @@ Cette classe permet de décrire une appellation et ses composantes linguistiques
     <property>
       <identifierInNamespace>U59</identifierInNamespace>
       <label lang="en">
-        <standardLabel>has partial published recording</standardLabel>
-        <inverseLabel>is partial published recording of</inverseLabel>
+        <standardLabel>is partial published recording of</standardLabel>
+        <inverseLabel>has partial published recording</inverseLabel>
       </label>
-      <subPropertyOf referenceNamespace="1">P130i</subPropertyOf>
-      <hasDomain referenceNamespace="6">F22</hasDomain>
-      <hasRange referenceNamespace="6">F24</hasRange>
+      <subPropertyOf referenceNamespace="1">P130</subPropertyOf>
+      <hasDomain referenceNamespace="6">F24</hasDomain>
+      <hasRange referenceNamespace="6">F22</hasRange>
       <textProperties>
         <scopeNote lang="en">No scope note entered for this property.</scopeNote>
         <example lang="en">No example provided for this property.</example>
@@ -2440,7 +2416,7 @@ Cette classe permet de décrire une appellation et ses composantes linguistiques
     </property>
     <property>
       <identifierInNamespace>U83</identifierInNamespace>
-      <!-- Is also rdf:type owl:NamedIndividual, owl:SymmetricObjectProperty -->
+      <!--  ARHN 12/09/2022 : Is also rdf:type owl:NamedIndividual, owl:SymmetricObjectProperty -->
       <label lang="en">
         <standardLabel>has relative key</standardLabel>
       </label>
@@ -2458,7 +2434,7 @@ Cette classe permet de décrire une appellation et ses composantes linguistiques
     </property>
     <property>
       <identifierInNamespace>U84</identifierInNamespace>
-      <!-- Is also rdf:type owl:NamedIndividual, owl:SymmetricObjectProperty -->
+      <!--  ARHN 12/09/2022 : Is also rdf:type owl:NamedIndividual, owl:SymmetricObjectProperty -->
       <label lang="fr">
         <standardLabel>a pour tonalité parallèle</standardLabel>
       </label>
@@ -2476,7 +2452,7 @@ Cette classe permet de décrire une appellation et ses composantes linguistiques
     </property>
     <property>
       <identifierInNamespace>U85</identifierInNamespace>
-      <!-- Is also rdf:type owl:NamedIndividual, owl:SymmetricObjectProperty -->
+      <!-- ARHN 12/09/2022 :  Is also rdf:type owl:NamedIndividual, owl:SymmetricObjectProperty -->
       <label lang="fr">
         <standardLabel>a pour tonalité étroitement lié</standardLabel>
       </label>
@@ -2859,7 +2835,7 @@ Cette classe permet de décrire une appellation et ses composantes linguistiques
       <label lang="en">
         <standardLabel>has tape configuration</standardLabel>
       </label>
-      <subPropertyOf>P3</subPropertyOf>
+      <subPropertyOf referenceNamespace="1">P3</subPropertyOf>
       <hasDomain referenceNamespace="1">E71</hasDomain>
       <hasRange referenceNamespace="1">E62</hasRange>
       <textProperties>
@@ -2992,7 +2968,7 @@ Cette classe permet de décrire une appellation et ses composantes linguistiques
       <label lang="en">
         <standardLabel>has subtitle</standardLabel>
       </label>
-      <subPropertyOf referenceNamespace="1">E35</subPropertyOf>
+      <!-- ARHN 12/09/2022 : rdfs:subPropertyOf supprimé car l'objet était une classe (dc:title). -->
       <hasDomain referenceNamespace="1">E71</hasDomain>
       <hasRange referenceNamespace="1">E62</hasRange>
       <textProperties>
@@ -3008,7 +2984,7 @@ Cette classe permet de décrire une appellation et ses composantes linguistiques
       <label lang="en">
         <standardLabel>has variant title</standardLabel>
       </label>
-      <subPropertyOf referenceNamespace="1">E35</subPropertyOf>
+      <!-- ARHN 12/09/2022 : rdfs:subPropertyOf supprimé car l'objet était une classe (dc:title). -->
       <hasDomain referenceNamespace="1">E71</hasDomain>
       <hasRange referenceNamespace="1">E62</hasRange>
       <textProperties>
@@ -3039,7 +3015,7 @@ Cette classe permet de décrire une appellation et ses composantes linguistiques
       <label lang="en">
         <standardLabel>has original title</standardLabel>
       </label>
-      <subPropertyOf referenceNamespace="1">E35</subPropertyOf>
+      <!-- ARHN 12/09/2022 : rdfs:subPropertyOf supprimé car l'objet était une classe (dc:title). -->
       <hasDomain referenceNamespace="1">E89</hasDomain>
       <hasRange referenceNamespace="1">E62</hasRange>
       <textProperties>
@@ -3055,7 +3031,7 @@ Cette classe permet de décrire une appellation et ses composantes linguistiques
       <label lang="en">
         <standardLabel>has uniform title</standardLabel>
       </label>
-      <subPropertyOf referenceNamespace="1">E35</subPropertyOf>
+      <!-- ARHN 12/09/2022 : rdfs:subPropertyOf supprimé car l'objet était une classe (dc:title). -->
       <hasDomain referenceNamespace="1">E89</hasDomain>
       <hasRange referenceNamespace="1">E62</hasRange>
       <textProperties>

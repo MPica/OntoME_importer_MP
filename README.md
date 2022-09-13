@@ -1,6 +1,6 @@
 # OntoME importer
 
-This repository contains the script which transform an RDF ontology file into the format needed for its import into the [the Ontology Management Environment](https://ontome.net/), as well as small useful scripts to convert ontologies. Most scripts use the Python [rdflib library](https://github.com/RDFLib/rdflib) to import the ontology directly as a graph and write the output file directly from that graph.
+This repository contains the scripts which transform an RDF ontology file into the format needed for its import into the [the Ontology Management Environment](https://ontome.net/), as well as small useful scripts to perform punctual transformations, when having another format may help the user understand the source better. Most scripts use the Python [rdflib library](https://github.com/RDFLib/rdflib) to import the ontology directly as a graph and write the output file directly from that graph.
 
 ## The scripts
 The scripts included here may be executed via [Jupyter Notebook](https://jupyter.org/), if all the necessary Python libraries are installed (always see first code cell).
@@ -15,3 +15,9 @@ The scripts included here may be executed via [Jupyter Notebook](https://jupyter
 * [input](input) contains only ontology description files which were given to, or are to be given to the main graph_to_ontome script.
 * [output](output) contains the final significant results of the main graph_to_ontome script. Test output files made before the final state are not to be included in this public repository.
 * [references](references) contains files useful to the main graph_to_ontome script, such as the XML schema for the output files and the dated Json representation of the namespaces already included in OntoME, along with their identifiers.
+
+## Transformations
+Here are the transformations already performed, which are kept in the output folder:
+* CIDOC-CRM 5.0.4
+* CIDOC-CRM 7.1.1
+* DoReMus
