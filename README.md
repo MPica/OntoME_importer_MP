@@ -18,6 +18,6 @@ The scripts included here may be executed via [Jupyter Notebook](https://jupyter
 
 ## Transformations
 Here are the transformations already performed, which are kept in the output folder:
-* CIDOC-CRM 5.0.4
-* CIDOC-CRM 7.1.1
-* DoReMus
+* CIDOC-CRM v° 5.0.4
+* CIDOC-CRM v° 7.1.1
+* DoReMus v° 0.2
