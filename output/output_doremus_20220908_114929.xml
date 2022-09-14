@@ -4,8 +4,10 @@
   <standardLabel lang="en">DoReMus v0.2</standardLabel>
   <version>0.2 (05/06/2017)</version>
   <publishedAt>2018-01-17T23:59:59</publishedAt>
+  <contributors>http://data.doremus.org/organization/DOREMUS</contributors>
   <referenceNamespace>1</referenceNamespace>
   <referenceNamespace>6</referenceNamespace>
+  <description lang="en">DOREMUS is an extension of the FRBRoo model for describing the music.</description>
   <classes>
     <class>
       <identifierInNamespace>M10</identifierInNamespace>
