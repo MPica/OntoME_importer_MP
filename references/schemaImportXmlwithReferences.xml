@@ -73,7 +73,7 @@
                                                 </xs:simpleContent>
                                             </xs:complexType>
                                         </xs:element>
-                                        <xs:element name="textProperties">
+                                        <xs:element name="textProperties" minOccurs="0" maxOccurs="1">
                                             <xs:complexType>
                                                 <xs:sequence>
                                                     <xs:element name="scopeNote" minOccurs="0" maxOccurs="unbounded">
@@ -184,7 +184,7 @@
                                                 </xs:restriction>
                                             </xs:simpleType>
                                         </xs:element>
-                                        <xs:element name="textProperties">
+                                        <xs:element name="textProperties" minOccurs="0" maxOccurs="1">
                                             <xs:complexType>
                                                 <xs:sequence>
                                                     <xs:element name="scopeNote" minOccurs="0" maxOccurs="unbounded">
