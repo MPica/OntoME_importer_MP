@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE cidoc_crm SYSTEM "cidoc_crm_v7_1_1.dtd">
+<!--<!DOCTYPE cidoc_crm SYSTEM "cidoc_crm_v7_1_1.dtd">-->
 <cidoc_crm version="7.1.1" lang="en" releaseDate="May 2021" classes="81" properties="160" officialSiteLink="http://cidoc-crm.org/Version/version-7.1.1">
   <!--
 CIDOC CRM v7.1.1 encoded in XML (November 2021)
