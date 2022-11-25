@@ -1,0 +1,4238 @@
+[
+	{
+		"objectType": "class",
+		"pkOntome": 358,
+		"identifierInNamespace": "gmlLiteral",
+		"originalURI":"gmlLiteral"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 359,
+		"identifierInNamespace": "wktLiteral",
+		"originalURI": "wktLiteral"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 47,
+		"identifierInNamespace": "E49",
+		"originalURI":"E49_Time_Appellation"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 108,
+		"identifierInNamespace": "P120",
+		"originalURI":"P120_occurs_before"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 73,
+		"identifierInNamespace": "P83",
+		"originalURI":"P83_had_at_least_duration"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 68,
+		"identifierInNamespace": "P78",
+		"originalURI":"P78_is_identified_by"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 393,
+		"identifierInNamespace": "A6",
+		"originalURI": "A6_Group_Declaration_Event"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1095,
+		"identifierInNamespace": "AP5",
+		"originalURI": "AP5_removed_part_or_all_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1100,
+		"identifierInNamespace": "AP10",
+		"originalURI": "AP10_destroyed"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1098,
+		"identifierInNamespace": "AP8",
+		"originalURI": "AP8_disturbed"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1105,
+		"identifierInNamespace": "AP16",
+		"originalURI": "AP16_assigned_attribute_to"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1106,
+		"identifierInNamespace": "AP17",
+		"originalURI": "AP17_is_found_by"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1092,
+		"identifierInNamespace": "AP2",
+		"originalURI": "AP2_discarded_into"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1102,
+		"identifierInNamespace": "AP12",
+		"originalURI": "AP12_confines"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1094,
+		"identifierInNamespace": "AP4",
+		"originalURI": "AP4_produced_surface"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 389,
+		"identifierInNamespace": "A2",
+		"originalURI": "A2_Stratigraphic_Volume_Unit"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1091,
+		"identifierInNamespace": "AP1",
+		"originalURI": "AP1_produced"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 395,
+		"identifierInNamespace": "A8",
+		"originalURI": "A8_Stratigraphic_Unit"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1108,
+		"identifierInNamespace": "AP19",
+		"originalURI": "AP19_is_embedding_in"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1097,
+		"identifierInNamespace": "AP7",
+		"originalURI": "AP7_produced"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1093,
+		"identifierInNamespace": "AP3",
+		"originalURI": "AP3_excavated"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1101,
+		"identifierInNamespace": "AP11",
+		"originalURI": "AP11_has_physical_relation"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 390,
+		"identifierInNamespace": "A3",
+		"originalURI": "A3_Stratigraphic_Interface"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1104,
+		"identifierInNamespace": "AP15",
+		"originalURI": "AP15_is_or_contains_remains_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1096,
+		"identifierInNamespace": "AP6",
+		"originalURI": "AP6_intended_to_approximate"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 394,
+		"identifierInNamespace": "A7",
+		"originalURI": "A7_Embedding"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 396,
+		"identifierInNamespace": "A9",
+		"originalURI": "A9_Archaeological_Excavation"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 392,
+		"identifierInNamespace": "A5",
+		"originalURI": "A5_Stratigraphic_Modification"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 388,
+		"identifierInNamespace": "A1",
+		"originalURI": "A1_Excavation_Process_Unit"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1107,
+		"identifierInNamespace": "AP18",
+		"originalURI": "AP18_is_embedding_of"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 391,
+		"identifierInNamespace": "A4",
+		"originalURI": "A4_Stratigraphic_Genesis"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1103,
+		"identifierInNamespace": "AP13",
+		"originalURI": "AP13_has_stratigraphic_relation"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1109,
+		"identifierInNamespace": "AP20",
+		"originalURI": "AP20_is_embedding_at"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1099,
+		"identifierInNamespace": "AP9",
+		"originalURI": "AP9_took_matter_from"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1049,
+		"identifierInNamespace": "Q4",
+		"originalURI": "Q4_has_spatial_projection"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1054,
+		"identifierInNamespace": "Q8",
+		"originalURI": "Q8_is_fixed_on"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1048,
+		"identifierInNamespace": "Q3",
+		"originalURI": "Q3_has_temporal_projection"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 345,
+		"identifierInNamespace": "SP1",
+		"originalURI": "SP1_Phenomenal_Spacetime_Volume"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1061,
+		"identifierInNamespace": "Q15",
+		"originalURI": "Q15_is_expressed_in_terms_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1047,
+		"identifierInNamespace": "Q2",
+		"originalURI": "Q2_occupied"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1059,
+		"identifierInNamespace": "Q13",
+		"originalURI": "Q13_approximates"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 351,
+		"identifierInNamespace": "SP7",
+		"originalURI": "SP7_Declarative_Spacetime_Volume"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1055,
+		"identifierInNamespace": "Q9",
+		"originalURI": "Q9_is_expressed_in_terms_of"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 347,
+		"identifierInNamespace": "SP3",
+		"originalURI": "SP3_Reference_Space"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1062,
+		"identifierInNamespace": "Q16",
+		"originalURI": "Q16_defines_spacetime_volume"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1052,
+		"identifierInNamespace": "Q6",
+		"originalURI": "Q6_is_at_rest_in_relation_to"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 354,
+		"identifierInNamespace": "SP12",
+		"originalURI": "SP12_Spacetime_Volume_Expression"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 348,
+		"identifierInNamespace": "SP4",
+		"originalURI": "SP4_Spatial_Coordinate_Reference_System"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 346,
+		"identifierInNamespace": "SP2",
+		"originalURI": "SP2_Phenomenal_Place"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1046,
+		"identifierInNamespace": "Q1",
+		"originalURI": "Q1_occupied"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1058,
+		"identifierInNamespace": "Q12",
+		"originalURI": "Q12_approximates"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 356,
+		"identifierInNamespace": "SP14",
+		"originalURI": "SP14_Time_Expression"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 357,
+		"identifierInNamespace": "SP15",
+		"originalURI": "SP15_Geometry"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 349,
+		"identifierInNamespace": "SP5",
+		"originalURI": "SP5_Geometric_Place_Expression"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1063,
+		"identifierInNamespace": "Q17",
+		"originalURI": "Q17_is_expressed_in_terms_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1065,
+		"identifierInNamespace": "Q19",
+		"originalURI": "Q19_has_reference_event"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1056,
+		"identifierInNamespace": "Q10",
+		"originalURI": "Q10_defines_place"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1064,
+		"identifierInNamespace": "Q18",
+		"originalURI": "Q18_is_expressed_in_terms_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1050,
+		"identifierInNamespace": "Q5",
+		"originalURI": "Q5_defined_in"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 352,
+		"identifierInNamespace": "SP10",
+		"originalURI": "SP10_Declarative_Time-Span"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1057,
+		"identifierInNamespace": "Q11",
+		"originalURI": "Q11_approximates"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1060,
+		"identifierInNamespace": "Q14",
+		"originalURI": "Q14_defines_time"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1053,
+		"identifierInNamespace": "Q7",
+		"originalURI": "Q7_describes"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 355,
+		"identifierInNamespace": "SP13",
+		"originalURI": "SP13_Phenomenal_Time-Span"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 350,
+		"identifierInNamespace": "SP6",
+		"originalURI": "SP6_Declarative_Place"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 353,
+		"identifierInNamespace": "SP11",
+		"originalURI": "SP11_Temporal_Reference_System"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1792,
+		"identifierInNamespace": "isEmpty",
+		"originalURI": "isEmpty"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1789,
+		"identifierInNamespace": "dimension",
+		"originalURI": "dimension"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1790,
+		"identifierInNamespace": "coordinateDimension",
+		"originalURI": "coordinateDimension"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 361,
+		"identifierInNamespace": "Geometry",
+		"originalURI": "Geometry"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 360,
+		"identifierInNamespace": "Feature",
+		"originalURI": "Feature"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1794,
+		"identifierInNamespace": "hasSerialization",
+		"originalURI": "hasSerialization"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1787,
+		"identifierInNamespace": "hasGeometry",
+		"originalURI": "hasGeometry"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1045,
+		"identifierInNamespace": "asWKT",
+		"originalURI": "asWKT"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1791,
+		"identifierInNamespace": "spatialDimension",
+		"originalURI": "spatialDimension"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1795,
+		"identifierInNamespace": "asGML",
+		"originalURI": "asGML"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 362,
+		"identifierInNamespace": "SpatialObject",
+		"originalURI": "SpatialObject"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1793,
+		"identifierInNamespace": "isSimple",
+		"originalURI": "isSimple"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 951,
+		"identifierInNamespace": "E96",
+		"originalURI": "E96_Purchase"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 65,
+		"identifierInNamespace": "E71",
+		"originalURI": "E71_Human-Made_Thing"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 46,
+		"identifierInNamespace": "P50",
+		"originalURI": "P50_has_current_keeper"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 41,
+		"identifierInNamespace": "E42",
+		"originalURI": "E42_Identifier"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 98,
+		"identifierInNamespace": "P110",
+		"originalURI": "P110_augmented"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 114,
+		"identifierInNamespace": "P126",
+		"originalURI": "P126_employed"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 32,
+		"identifierInNamespace": "E33",
+		"originalURI": "E33_E41_Linguistic_Appellation"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 32,
+		"identifierInNamespace": "E33",
+		"originalURI": "E33_E41_Linguistic_Appellation"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 19,
+		"identifierInNamespace": "E19",
+		"originalURI": "E19_Physical_Object"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 5,
+		"identifierInNamespace": "E5",
+		"originalURI": "E5_Event"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 134,
+		"identifierInNamespace": "P146",
+		"originalURI": "P146_separated_from"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 26,
+		"identifierInNamespace": "E27",
+		"originalURI": "E27_Site"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 11,
+		"identifierInNamespace": "E11",
+		"originalURI": "E11_Modification"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 24,
+		"identifierInNamespace": "E25",
+		"originalURI": "E25_Human-Made_Feature"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 72,
+		"identifierInNamespace": "P82",
+		"originalURI": "P82_at_some_time_within"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 81,
+		"identifierInNamespace": "E89",
+		"originalURI": "E89_Propositional_Object"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 92,
+		"identifierInNamespace": "P104",
+		"originalURI": "P104_is_subject_to"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 37,
+		"identifierInNamespace": "P40",
+		"originalURI": "P40_observed_dimension"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 111,
+		"identifierInNamespace": "P123",
+		"originalURI": "P123_resulted_in"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 149,
+		"identifierInNamespace": "P168",
+		"originalURI": "P168_place_is_defined_by"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 25,
+		"identifierInNamespace": "E26",
+		"originalURI": "E26_Physical_Feature"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1903,
+		"identifierInNamespace": "P175",
+		"originalURI": "P175_starts_before_or_with_the_start_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1901,
+		"identifierInNamespace": "P173",
+		"originalURI": "P173_starts_before_or_with_the_end_of"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 8,
+		"identifierInNamespace": "E8",
+		"originalURI": "E8_Acquisition"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 60,
+		"identifierInNamespace": "E66",
+		"originalURI": "E66_Formation"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 62,
+		"identifierInNamespace": "P71",
+		"originalURI": "P71_lists"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 151,
+		"identifierInNamespace": "P81b",
+		"originalURI": "P81b_begin_of_the_end"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 78,
+		"identifierInNamespace": "P90",
+		"originalURI": "P90_has_value"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 10,
+		"identifierInNamespace": "E10",
+		"originalURI": "E10_Transfer_of_Custody"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 91,
+		"identifierInNamespace": "P103",
+		"originalURI": "P103_was_intended_for"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 55,
+		"identifierInNamespace": "P59",
+		"originalURI": "P59_has_section"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 3,
+		"identifierInNamespace": "P3",
+		"originalURI": "P3_has_note"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 85,
+		"identifierInNamespace": "P97",
+		"originalURI": "P97_from_father"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 131,
+		"identifierInNamespace": "P143",
+		"originalURI": "P143_joined"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 63,
+		"identifierInNamespace": "E69",
+		"originalURI": "E69_Death"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 94,
+		"identifierInNamespace": "P106",
+		"originalURI": "P106_is_composed_of"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 84,
+		"identifierInNamespace": "E93",
+		"originalURI": "E93_Presence"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 8,
+		"identifierInNamespace": "P9",
+		"originalURI": "P9_consists_of"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 57,
+		"identifierInNamespace": "E63",
+		"originalURI": "E63_Beginning_of_Existence"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 7,
+		"identifierInNamespace": "E7",
+		"originalURI": "E7_Activity"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 35,
+		"identifierInNamespace": "E36",
+		"originalURI": "E36_Visual_Item"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 87,
+		"identifierInNamespace": "P99",
+		"originalURI": "P99_dissolved"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 110,
+		"identifierInNamespace": "P122",
+		"originalURI": "P122_borders_with"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 66,
+		"identifierInNamespace": "P75",
+		"originalURI": "P75_possesses"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 130,
+		"identifierInNamespace": "P142",
+		"originalURI": "P142_used_constituent"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 136,
+		"identifierInNamespace": "P148",
+		"originalURI": "P148_has_component"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 129,
+		"identifierInNamespace": "P141",
+		"originalURI": "P141_assigned"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1921,
+		"identifierInNamespace": "P198",
+		"originalURI": "P198_holds_or_supports"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1904,
+		"identifierInNamespace": "P176",
+		"originalURI": "P176_starts_before_the_start_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 26,
+		"identifierInNamespace": "P28",
+		"originalURI": "P28_custody_surrendered_by"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1917,
+		"identifierInNamespace": "P191",
+		"originalURI": "P191_had_duration"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 29,
+		"identifierInNamespace": "E30",
+		"originalURI": "E30_Right"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 121,
+		"identifierInNamespace": "P133",
+		"originalURI": "P133_is_spatiotemporally_separated_from"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 24,
+		"identifierInNamespace": "P26",
+		"originalURI": "P26_moved_to"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 59,
+		"identifierInNamespace": "E65",
+		"originalURI": "E65_Creation"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 146,
+		"identifierInNamespace": "P165",
+		"originalURI": "P165_incorporates"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 14,
+		"identifierInNamespace": "E14",
+		"originalURI": "E14_Condition_Assessment"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 23,
+		"identifierInNamespace": "P25",
+		"originalURI": "P25_moved"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 124,
+		"identifierInNamespace": "P136",
+		"originalURI": "P136_was_based_on"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 69,
+		"identifierInNamespace": "P79",
+		"originalURI": "P79_beginning_is_qualified_by"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1920,
+		"identifierInNamespace": "P197",
+		"originalURI": "P197_covered_parts_of"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 71,
+		"identifierInNamespace": "E78",
+		"originalURI": "E78_Curated_Holding"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 73,
+		"identifierInNamespace": "E80",
+		"originalURI": "E80_Part_Removal"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1902,
+		"identifierInNamespace": "P174",
+		"originalURI": "P174_starts_before_the_end_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 101,
+		"identifierInNamespace": "P113",
+		"originalURI": "P113_removed"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 128,
+		"identifierInNamespace": "P140",
+		"originalURI": "P140_assigned_attribute_to"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1914,
+		"identifierInNamespace": "P188",
+		"originalURI": "P188_requires_production_tool"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 16,
+		"identifierInNamespace": "P17",
+		"originalURI": "P17_was_motivated_by"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 79,
+		"identifierInNamespace": "E86",
+		"originalURI": "E86_Leaving"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 116,
+		"identifierInNamespace": "P128",
+		"originalURI": "P128_carries"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 62,
+		"identifierInNamespace": "E68",
+		"originalURI": "E68_Dissolution"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 77,
+		"identifierInNamespace": "P89",
+		"originalURI": "P89_falls_within"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 954,
+		"identifierInNamespace": "E99",
+		"originalURI": "E99_Product_Type"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 81,
+		"identifierInNamespace": "P93",
+		"originalURI": "P93_took_out_of_existence"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 38,
+		"identifierInNamespace": "P41",
+		"originalURI": "P41_classified"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 75,
+		"identifierInNamespace": "P86",
+		"originalURI": "P86_falls_within"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 90,
+		"identifierInNamespace": "P102",
+		"originalURI": "P102_has_title"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 15,
+		"identifierInNamespace": "P16",
+		"originalURI": "P16_used_specific_object"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 16,
+		"identifierInNamespace": "E16",
+		"originalURI": "E16_Measurement"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 122,
+		"identifierInNamespace": "P134",
+		"originalURI": "P134_continued"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 33,
+		"identifierInNamespace": "P35",
+		"originalURI": "P35_has_identified"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 147,
+		"identifierInNamespace": "P166",
+		"originalURI": "P166_was_a_presence_of"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 51,
+		"identifierInNamespace": "E53",
+		"originalURI": "E53_Place"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 141,
+		"identifierInNamespace": "P156",
+		"originalURI": "P156_occupies"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 54,
+		"identifierInNamespace": "E56",
+		"originalURI": "E56_Language"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 27,
+		"identifierInNamespace": "E28",
+		"originalURI": "E28_Conceptual_Object"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 44,
+		"identifierInNamespace": "P48",
+		"originalURI": "P48_has_preferred_identifier"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 12,
+		"identifierInNamespace": "P13",
+		"originalURI": "P13_destroyed"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 153,
+		"identifierInNamespace": "P82b",
+		"originalURI": "P82b_end_of_the_end"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 6,
+		"identifierInNamespace": "E6",
+		"originalURI": "E6_Destruction"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1899,
+		"identifierInNamespace": "P171",
+		"originalURI": "P171_at_some_place_within"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 70,
+		"identifierInNamespace": "P80",
+		"originalURI": "P80_end_is_qualified_by"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 30,
+		"identifierInNamespace": "E31",
+		"originalURI": "E31_Document"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 126,
+		"identifierInNamespace": "P138",
+		"originalURI": "P138_represents"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1908,
+		"identifierInNamespace": "P182",
+		"originalURI": "P182_ends_before_or_with_the_start_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1906,
+		"identifierInNamespace": "P179",
+		"originalURI": "P179_had_sales_price"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 89,
+		"identifierInNamespace": "P101",
+		"originalURI": "P101_had_as_general_use"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 38,
+		"identifierInNamespace": "E39",
+		"originalURI": "E39_Actor"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 118,
+		"identifierInNamespace": "P130",
+		"originalURI": "P130_shows_features_of"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 55,
+		"identifierInNamespace": "E57",
+		"originalURI": "E57_Material"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 10,
+		"identifierInNamespace": "P11",
+		"originalURI": "P11_had_participant"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 45,
+		"identifierInNamespace": "P49",
+		"originalURI": "P49_has_former_or_current_keeper"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 4,
+		"identifierInNamespace": "P4",
+		"originalURI": "P4_has_time-span"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1913,
+		"identifierInNamespace": "P187",
+		"originalURI": "P187_has_production_plan"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 34,
+		"identifierInNamespace": "P37",
+		"originalURI": "P37_assigned"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 74,
+		"identifierInNamespace": "E81",
+		"originalURI": "E81_Transformation"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 64,
+		"identifierInNamespace": "E70",
+		"originalURI": "E70_Thing"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 112,
+		"identifierInNamespace": "P124",
+		"originalURI": "P124_transformed"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 83,
+		"identifierInNamespace": "E92",
+		"originalURI": "E92_Spacetime_Volume"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1919,
+		"identifierInNamespace": "P196",
+		"originalURI": "P196_defines"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1905,
+		"identifierInNamespace": "P177",
+		"originalURI": "P177_assigned_property_of_type"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 93,
+		"identifierInNamespace": "P105",
+		"originalURI": "P105_right_held_by"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 27,
+		"identifierInNamespace": "P29",
+		"originalURI": "P29_custody_received_by"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 13,
+		"identifierInNamespace": "P14",
+		"originalURI": "P14_carried_out_by"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 952,
+		"identifierInNamespace": "E97",
+		"originalURI": "E97_Monetary_Amount"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 86,
+		"identifierInNamespace": "P98",
+		"originalURI": "P98_brought_into_life"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 82,
+		"identifierInNamespace": "P94",
+		"originalURI": "P94_has_created"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 17,
+		"identifierInNamespace": "E17",
+		"originalURI": "E17_Type_Assignment"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 28,
+		"identifierInNamespace": "E29",
+		"originalURI": "E29_Design_or_Procedure"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 22,
+		"identifierInNamespace": "P24",
+		"originalURI": "P24_transferred_title_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 40,
+		"identifierInNamespace": "P43",
+		"originalURI": "P43_has_dimension"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1,
+		"identifierInNamespace": "E1",
+		"originalURI": "E1_CRM_Entity"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 144,
+		"identifierInNamespace": "P161",
+		"originalURI": "P161_has_spatial_projection"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 79,
+		"identifierInNamespace": "P91",
+		"originalURI": "P91_has_unit"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 31,
+		"identifierInNamespace": "E32",
+		"originalURI": "E32_Authority_Document"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 56,
+		"identifierInNamespace": "E58",
+		"originalURI": "E58_Measurement_Unit"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 66,
+		"identifierInNamespace": "E72",
+		"originalURI": "E72_Legal_Object"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 57,
+		"identifierInNamespace": "P65",
+		"originalURI": "P65_shows_visual_item"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 53,
+		"identifierInNamespace": "P57",
+		"originalURI": "P57_has_number_of_parts"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1907,
+		"identifierInNamespace": "P180",
+		"originalURI": "P180_has_currency"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 52,
+		"identifierInNamespace": "E54",
+		"originalURI": "E54_Dimension"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 11,
+		"identifierInNamespace": "P12",
+		"originalURI": "P12_occurred_in_the_presence_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 125,
+		"identifierInNamespace": "P137",
+		"originalURI": "P137_exemplifies"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 15,
+		"identifierInNamespace": "E15",
+		"originalURI": "E15_Identifier_Assignment"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 83,
+		"identifierInNamespace": "P95",
+		"originalURI": "P95_has_formed"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 113,
+		"identifierInNamespace": "P125",
+		"originalURI": "P125_used_object_of_type"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 2,
+		"identifierInNamespace": "E2",
+		"originalURI": "E2_Temporal_Entity"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 145,
+		"identifierInNamespace": "P164",
+		"originalURI": "P164_is_temporally_specified_by"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 41,
+		"identifierInNamespace": "P44",
+		"originalURI": "P44_has_condition"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 9,
+		"identifierInNamespace": "E9",
+		"originalURI": "E9_Move"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 127,
+		"identifierInNamespace": "P139",
+		"originalURI": "P139_has_alternative_form"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 49,
+		"identifierInNamespace": "P53",
+		"originalURI": "P53_has_former_or_current_location"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 97,
+		"identifierInNamespace": "P109",
+		"originalURI": "P109_has_current_or_former_curator"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 88,
+		"identifierInNamespace": "P100",
+		"originalURI": "P100_was_death_of"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 72,
+		"identifierInNamespace": "E79",
+		"originalURI": "E79_Part_Addition"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 34,
+		"identifierInNamespace": "E35",
+		"originalURI": "E35_Title"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 18,
+		"identifierInNamespace": "E18",
+		"originalURI": "E18_Physical_Thing"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 9,
+		"identifierInNamespace": "P10",
+		"originalURI": "P10_falls_within"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 36,
+		"identifierInNamespace": "E37",
+		"originalURI": "E37_Mark"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1911,
+		"identifierInNamespace": "P185",
+		"originalURI": "P185_ends_before_the_end_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 35,
+		"identifierInNamespace": "P38",
+		"originalURI": "P38_deassigned"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 47,
+		"identifierInNamespace": "P51",
+		"originalURI": "P51_has_former_or_current_owner"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 70,
+		"identifierInNamespace": "E77",
+		"originalURI": "E77_Persistent_Item"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 71,
+		"identifierInNamespace": "P81",
+		"originalURI": "P81_ongoing_throughout"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 14,
+		"identifierInNamespace": "P15",
+		"originalURI": "P15_was_influenced_by"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 67,
+		"identifierInNamespace": "E73",
+		"originalURI": "E73_Information_Object"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 33,
+		"identifierInNamespace": "E34",
+		"originalURI": "E34_Inscription"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 20,
+		"identifierInNamespace": "P22",
+		"originalURI": "P22_transferred_title_to"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 65,
+		"identifierInNamespace": "P74",
+		"originalURI": "P74_has_current_or_former_residence"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 139,
+		"identifierInNamespace": "P151",
+		"originalURI": "P151_was_formed_from"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 58,
+		"identifierInNamespace": "P67",
+		"originalURI": "P67_refers_to"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 32,
+		"identifierInNamespace": "P34",
+		"originalURI": "P34_concerned"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 68,
+		"identifierInNamespace": "E74",
+		"originalURI": "E74_Group"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 100,
+		"identifierInNamespace": "P112",
+		"originalURI": "P112_diminished"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1900,
+		"identifierInNamespace": "P172",
+		"originalURI": "P172_contains"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 53,
+		"identifierInNamespace": "E55",
+		"originalURI": "E55_Type"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 140,
+		"identifierInNamespace": "P152",
+		"originalURI": "P152_has_parent"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 152,
+		"identifierInNamespace": "P82a",
+		"originalURI": "P82a_begin_of_the_begin"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 39,
+		"identifierInNamespace": "P42",
+		"originalURI": "P42_assigned"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 13,
+		"identifierInNamespace": "E13",
+		"originalURI": "E13_Attribute_Assignment"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 5,
+		"identifierInNamespace": "P5",
+		"originalURI": "P5_consists_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 148,
+		"identifierInNamespace": "P167",
+		"originalURI": "P167_was_within"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 150,
+		"identifierInNamespace": "P81a",
+		"originalURI": "P81a_end_of_the_begin"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1909,
+		"identifierInNamespace": "P183",
+		"originalURI": "P183_ends_before_the_start_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 19,
+		"identifierInNamespace": "P21",
+		"originalURI": "P21_had_general_purpose"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 28,
+		"identifierInNamespace": "P30",
+		"originalURI": "P30_transferred_custody_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 7,
+		"identifierInNamespace": "P8",
+		"originalURI": "P8_took_place_on_or_within"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 67,
+		"identifierInNamespace": "P76",
+		"originalURI": "P76_has_contact_point"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 132,
+		"identifierInNamespace": "P144",
+		"originalURI": "P144_joined_with"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1910,
+		"identifierInNamespace": "P184",
+		"originalURI": "P184_ends_before_or_with_the_end_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 135,
+		"identifierInNamespace": "P147",
+		"originalURI": "P147_curated"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 76,
+		"identifierInNamespace": "E83",
+		"originalURI": "E83_Type_Creation"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1918,
+		"identifierInNamespace": "P195",
+		"originalURI": "P195_was_a_presence_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 31,
+		"identifierInNamespace": "P33",
+		"originalURI": "P33_used_specific_technique"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 80,
+		"identifierInNamespace": "P92",
+		"originalURI": "P92_brought_into_existence"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 21,
+		"identifierInNamespace": "P23",
+		"originalURI": "P23_transferred_title_from"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 22,
+		"identifierInNamespace": "E22",
+		"originalURI": "E22_Human-Made_Object"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1912,
+		"identifierInNamespace": "P186",
+		"originalURI": "P186_produced_thing_of_product_type"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1915,
+		"identifierInNamespace": "P189",
+		"originalURI": "P189_approximates"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 48,
+		"identifierInNamespace": "P52",
+		"originalURI": "P52_has_current_owner"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 59,
+		"identifierInNamespace": "P68",
+		"originalURI": "P68_foresees_use_of"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 61,
+		"identifierInNamespace": "E67",
+		"originalURI": "E67_Birth"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1916,
+		"identifierInNamespace": "P190",
+		"originalURI": "P190_has_symbolic_content"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 4,
+		"identifierInNamespace": "E4",
+		"originalURI": "E4_Period"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 60,
+		"identifierInNamespace": "P69",
+		"originalURI": "P69_has_association_with"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 61,
+		"identifierInNamespace": "P70",
+		"originalURI": "P70_documents"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 51,
+		"identifierInNamespace": "P55",
+		"originalURI": "P55_has_current_location"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 58,
+		"identifierInNamespace": "E64",
+		"originalURI": "E64_End_of_Existence"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 17,
+		"identifierInNamespace": "P19",
+		"originalURI": "P19_was_intended_use_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 133,
+		"identifierInNamespace": "P145",
+		"originalURI": "P145_separated"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 23,
+		"identifierInNamespace": "E24",
+		"originalURI": "E24_Physical_Human-Made_Thing"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 82,
+		"identifierInNamespace": "E90",
+		"originalURI": "E90_Symbolic_Object"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 42,
+		"identifierInNamespace": "P45",
+		"originalURI": "P45_consists_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 95,
+		"identifierInNamespace": "P107",
+		"originalURI": "P107_has_current_or_former_member"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 30,
+		"identifierInNamespace": "P32",
+		"originalURI": "P32_used_general_technique"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 80,
+		"identifierInNamespace": "E87",
+		"originalURI": "E87_Curation_Activity"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 117,
+		"identifierInNamespace": "P129",
+		"originalURI": "P129_is_about"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 63,
+		"identifierInNamespace": "P72",
+		"originalURI": "P72_has_language"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 43,
+		"identifierInNamespace": "P46",
+		"originalURI": "P46_is_composed_of"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 12,
+		"identifierInNamespace": "E12",
+		"originalURI": "E12_Production"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 52,
+		"identifierInNamespace": "P56",
+		"originalURI": "P56_bears_feature"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 50,
+		"identifierInNamespace": "E52",
+		"originalURI": "E52_Time-Span"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 40,
+		"identifierInNamespace": "E41",
+		"originalURI": "E41_Appellation"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 84,
+		"identifierInNamespace": "P96",
+		"originalURI": "P96_by_mother"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 109,
+		"identifierInNamespace": "P121",
+		"originalURI": "P121_overlaps_with"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 3,
+		"identifierInNamespace": "E3",
+		"originalURI": "E3_Condition_State"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 25,
+		"identifierInNamespace": "P27",
+		"originalURI": "P27_moved_from"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 138,
+		"identifierInNamespace": "P150",
+		"originalURI": "P150_defines_typical_parts_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 18,
+		"identifierInNamespace": "P20",
+		"originalURI": "P20_had_specific_purpose"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 64,
+		"identifierInNamespace": "P73",
+		"originalURI": "P73_has_translation"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1,
+		"identifierInNamespace": "P1",
+		"originalURI": "P1_is_identified_by"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 953,
+		"identifierInNamespace": "E98",
+		"originalURI": "E98_Currency"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 29,
+		"identifierInNamespace": "P31",
+		"originalURI": "P31_has_modified"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 50,
+		"identifierInNamespace": "P54",
+		"originalURI": "P54_has_current_permanent_location"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 20,
+		"identifierInNamespace": "E20",
+		"originalURI": "E20_Biological_Object"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 21,
+		"identifierInNamespace": "E21",
+		"originalURI": "E21_Person"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 96,
+		"identifierInNamespace": "P108",
+		"originalURI": "P108_has_produced"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2,
+		"identifierInNamespace": "P2",
+		"originalURI": "P2_has_type"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 142,
+		"identifierInNamespace": "P157",
+		"originalURI": "P157_is_at_rest_relative_to"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 123,
+		"identifierInNamespace": "P135",
+		"originalURI": "P135_created_type"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 99,
+		"identifierInNamespace": "P111",
+		"originalURI": "P111_added"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 78,
+		"identifierInNamespace": "E85",
+		"originalURI": "E85_Joining"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 115,
+		"identifierInNamespace": "P127",
+		"originalURI": "P127_has_broader_term"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 36,
+		"identifierInNamespace": "P39",
+		"originalURI": "P39_measured"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 56,
+		"identifierInNamespace": "P62",
+		"originalURI": "P62_depicts"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 6,
+		"identifierInNamespace": "P7",
+		"originalURI": "P7_took_place_at"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 143,
+		"identifierInNamespace": "P160",
+		"originalURI": "P160_has_temporal_projection"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 120,
+		"identifierInNamespace": "P132",
+		"originalURI": "P132_spatiotemporally_overlaps_with"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 49,
+		"identifierInNamespace": "E51",
+		"originalURI": "E51_Contact_Point"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 45,
+		"identifierInNamespace": "E47",
+		"originalURI": "E47_Spatial_Coordinates"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 37,
+		"identifierInNamespace": "E38",
+		"originalURI": "E38_Image"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 44,
+		"identifierInNamespace": "E46",
+		"originalURI": "E46_Section_Definition"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 69,
+		"identifierInNamespace": "E75",
+		"originalURI": "E75_Conceptual_Object_Appellation"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 77,
+		"identifierInNamespace": "E84",
+		"originalURI": "E84_Information_Carrier"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 43,
+		"identifierInNamespace": "E45",
+		"originalURI": "E45_Address"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 102,
+		"identifierInNamespace": "P114",
+		"originalURI": "P114_is_equal_in_time_to"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 104,
+		"identifierInNamespace": "P116",
+		"originalURI": "P116_starts"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 54,
+		"identifierInNamespace": "P58",
+		"originalURI": "P58_has_section_definition"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 76,
+		"identifierInNamespace": "P87",
+		"originalURI": "P87_is_identified_by"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 74,
+		"identifierInNamespace": "P84",
+		"originalURI": "P84_had_at_most_duration"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 107,
+		"identifierInNamespace": "P119",
+		"originalURI": "P119_meets_in_time_with"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 119,
+		"identifierInNamespace": "P131",
+		"originalURI": "P131_is_identified_by"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 75,
+		"identifierInNamespace": "E82",
+		"originalURI": "E82_Actor_Appellation"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 42,
+		"identifierInNamespace": "E44",
+		"originalURI": "E44_Place_Appellation"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 39,
+		"identifierInNamespace": "E40",
+		"originalURI": "E40_Legal_Body"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 48,
+		"identifierInNamespace": "E50",
+		"originalURI": "E50_Date"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 46,
+		"identifierInNamespace": "E48",
+		"originalURI": "E48_Place_Name"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 103,
+		"identifierInNamespace": "P115",
+		"originalURI": "P115_finishes"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1896,
+		"identifierInNamespace": "P88",
+		"originalURI": "P88_consists_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 105,
+		"identifierInNamespace": "P117",
+		"originalURI": "P117_occurs_during"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 106,
+		"identifierInNamespace": "P118",
+		"originalURI": "P118_overlaps_in_time_with"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 137,
+		"identifierInNamespace": "P149",
+		"originalURI": "P149_is_identified_by"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1013,
+		"identifierInNamespace": "R39",
+		"originalURI": "R39_is_intended_for"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 260,
+		"identifierInNamespace": "F50",
+		"originalURI": "F50_Controlled_Access_Point"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 989,
+		"identifierInNamespace": "R15",
+		"originalURI": "R15_has_fragment"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 990,
+		"identifierInNamespace": "R16",
+		"originalURI": "R16_initiated"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 239,
+		"identifierInNamespace": "F23",
+		"originalURI": "F23_Expression_Fragment"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 257,
+		"identifierInNamespace": "F42",
+		"originalURI": "F42_Representative_Expression_Assignment"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1037,
+		"identifierInNamespace": "R64",
+		"originalURI": "R64_used_name"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1011,
+		"identifierInNamespace": "R37",
+		"originalURI": "R37_states_as_nomen"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1020,
+		"identifierInNamespace": "R46",
+		"originalURI": "R46_assigned_to"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 992,
+		"identifierInNamespace": "R18",
+		"originalURI": "R18_created"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 994,
+		"identifierInNamespace": "R20",
+		"originalURI": "R20_recorded"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 223,
+		"identifierInNamespace": "F7",
+		"originalURI": "F7_Object"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 988,
+		"identifierInNamespace": "R13",
+		"originalURI": "R13_is_realised_in"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 253,
+		"identifierInNamespace": "F38",
+		"originalURI": "F38_Character"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1010,
+		"identifierInNamespace": "R36",
+		"originalURI": "R36_uses_script_conversion"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1009,
+		"identifierInNamespace": "R35",
+		"originalURI": "R35_specified_by"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1027,
+		"identifierInNamespace": "R54",
+		"originalURI": "R54_has_nomen_language"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 252,
+		"identifierInNamespace": "F36",
+		"originalURI": "F36_Script_Conversion"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 983,
+		"identifierInNamespace": "R8",
+		"originalURI": "R8_consists_of"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 247,
+		"identifierInNamespace": "F31",
+		"originalURI": "F31_Performance"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 997,
+		"identifierInNamespace": "R23",
+		"originalURI": "R23_created_a_realization_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1034,
+		"identifierInNamespace": "R61",
+		"originalURI": "R61_occured_in_kind_of_context"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1038,
+		"identifierInNamespace": "R65",
+		"originalURI": "R65_recorded_aspects_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1026,
+		"identifierInNamespace": "R53",
+		"originalURI": "R53_assigned"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 240,
+		"identifierInNamespace": "F24",
+		"originalURI": "F24_Publication_Expression"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1006,
+		"identifierInNamespace": "R32",
+		"originalURI": "R32_is_warranted_by"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 221,
+		"identifierInNamespace": "F5",
+		"originalURI": "F5_Item"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 242,
+		"identifierInNamespace": "F26",
+		"originalURI": "F26_Recording"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 232,
+		"identifierInNamespace": "F16",
+		"originalURI": "F16_Container_Work"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 228,
+		"identifierInNamespace": "F12",
+		"originalURI": "F12_Nomen"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1005,
+		"identifierInNamespace": "R31",
+		"originalURI": "R31_is_reproduction_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1001,
+		"identifierInNamespace": "R27",
+		"originalURI": "R27_used_as_source_material"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 222,
+		"identifierInNamespace": "F6",
+		"originalURI": "F6_Concept"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 255,
+		"identifierInNamespace": "F40",
+		"originalURI": "F40_Identifier_Assignment"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1036,
+		"identifierInNamespace": "R63",
+		"originalURI": "R63_named"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1019,
+		"identifierInNamespace": "R45",
+		"originalURI": "R45_assigned_to"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 224,
+		"identifierInNamespace": "F8",
+		"originalURI": "F8_Event"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 241,
+		"identifierInNamespace": "F25",
+		"originalURI": "F25_Performance_Plan"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1003,
+		"identifierInNamespace": "R29",
+		"originalURI": "R29_reproduced"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 220,
+		"identifierInNamespace": "F4",
+		"originalURI": "F4_Manifestation_Singleton"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 219,
+		"identifierInNamespace": "F3",
+		"originalURI": "F3_Manifestation_Product_Type"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 245,
+		"identifierInNamespace": "F29",
+		"originalURI": "F29_Recording_Event"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1025,
+		"identifierInNamespace": "R52",
+		"originalURI": "R52_used_rule"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 233,
+		"identifierInNamespace": "F17",
+		"originalURI": "F17_Aggregation_Work"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 995,
+		"identifierInNamespace": "R21",
+		"originalURI": "R21_created"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 999,
+		"identifierInNamespace": "R25",
+		"originalURI": "R25_performed"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1014,
+		"identifierInNamespace": "R40",
+		"originalURI": "R40_has_representative_expression"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 985,
+		"identifierInNamespace": "R10",
+		"originalURI": "R10_has_member"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1028,
+		"identifierInNamespace": "R55",
+		"originalURI": "R55_has_nomen_form"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1029,
+		"identifierInNamespace": "R56",
+		"originalURI": "R56_has_related_use"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1016,
+		"identifierInNamespace": "R42",
+		"originalURI": "R42_is_representative_manifestation_singleton_for"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1032,
+		"identifierInNamespace": "R59",
+		"originalURI": "R59_had_typical_subject"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 217,
+		"identifierInNamespace": "F1",
+		"originalURI": "F1_Work"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 986,
+		"identifierInNamespace": "R11",
+		"originalURI": "R11_has_issuing_rule"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 254,
+		"identifierInNamespace": "F39",
+		"originalURI": "F39_Family"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 261,
+		"identifierInNamespace": "F51",
+		"originalURI": "F51_Pursuit"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1033,
+		"identifierInNamespace": "R60",
+		"originalURI": "R60_used_to_use_language"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 976,
+		"identifierInNamespace": "R1",
+		"originalURI": "R1_is_logical_successor_of"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 235,
+		"identifierInNamespace": "F19",
+		"originalURI": "F19_Publication_Work"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 993,
+		"identifierInNamespace": "R19",
+		"originalURI": "R19_created_a_realization_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 973,
+		"identifierInNamespace": "CLP104",
+		"originalURI": "CLP104_subject_to"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 237,
+		"identifierInNamespace": "F21",
+		"originalURI": "F21_Recording_Work"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1004,
+		"identifierInNamespace": "R30",
+		"originalURI": "R30_produced"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 982,
+		"identifierInNamespace": "R7",
+		"originalURI": "R7_is_example_of"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 244,
+		"identifierInNamespace": "F28",
+		"originalURI": "F28_Expression_Creation"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 234,
+		"identifierInNamespace": "F18",
+		"originalURI": "F18_Serial_Work"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 975,
+		"identifierInNamespace": "CLR6",
+		"originalURI": "CLR6_should_carry"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1022,
+		"identifierInNamespace": "R49",
+		"originalURI": "R49_assigned"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 998,
+		"identifierInNamespace": "R24",
+		"originalURI": "R24_created"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 981,
+		"identifierInNamespace": "R6",
+		"originalURI": "R6_carries"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1023,
+		"identifierInNamespace": "R50",
+		"originalURI": "R50_assigned_to"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 996,
+		"identifierInNamespace": "R22",
+		"originalURI": "R22_created_a_realization_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1018,
+		"identifierInNamespace": "R44",
+		"originalURI": "R44_carried_out_by"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1008,
+		"identifierInNamespace": "R34",
+		"originalURI": "R34_has_validity_period"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1031,
+		"identifierInNamespace": "R58",
+		"originalURI": "R58_has_fictional_member"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1007,
+		"identifierInNamespace": "R33",
+		"originalURI": "R33_has_content"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 984,
+		"identifierInNamespace": "R9",
+		"originalURI": "R9_is_realised_in"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 977,
+		"identifierInNamespace": "R2",
+		"originalURI": "R2_is_derivative_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1024,
+		"identifierInNamespace": "R51",
+		"originalURI": "R51_assigned"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 249,
+		"identifierInNamespace": "F33",
+		"originalURI": "F33_Reproduction_Event"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 968,
+		"identifierInNamespace": "CLP2",
+		"originalURI": "CLP2_should_have_type"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1015,
+		"identifierInNamespace": "R41",
+		"originalURI": "R41_has_rep_manifestation_product_type"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1035,
+		"identifierInNamespace": "R62",
+		"originalURI": "R62_was_used_for_membership_in"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 263,
+		"identifierInNamespace": "F53",
+		"originalURI": "F53_Material_Copy"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 258,
+		"identifierInNamespace": "F43",
+		"originalURI": "F43_Identifier_Rule"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 230,
+		"identifierInNamespace": "F14",
+		"originalURI": "F14_Individual_Work"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1017,
+		"identifierInNamespace": "R43",
+		"originalURI": "R43_carried_out_by"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 991,
+		"identifierInNamespace": "R17",
+		"originalURI": "R17_created"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 226,
+		"identifierInNamespace": "F10",
+		"originalURI": "F10_Person"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1021,
+		"identifierInNamespace": "R48",
+		"originalURI": "R48_assigned_to"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 262,
+		"identifierInNamespace": "F52",
+		"originalURI": "F52_Name_Use_Activity"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 264,
+		"identifierInNamespace": "F54",
+		"originalURI": "F54_Utilized_Information_Carrier"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 225,
+		"identifierInNamespace": "F9",
+		"originalURI": "F9_Place"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 971,
+		"identifierInNamespace": "CLP46",
+		"originalURI": "CLP46_should_be_composed_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1012,
+		"identifierInNamespace": "R38",
+		"originalURI": "R38_refers_to_thema"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 256,
+		"identifierInNamespace": "F41",
+		"originalURI": "F41_Representative_Manifestation_Assignment"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 218,
+		"identifierInNamespace": "F2",
+		"originalURI": "F2_Expression"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 980,
+		"identifierInNamespace": "R5",
+		"originalURI": "R5_has_component"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 229,
+		"identifierInNamespace": "F13",
+		"originalURI": "F13_Identifier"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 970,
+		"identifierInNamespace": "CLP45",
+		"originalURI": "CLP45_should_consist_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 979,
+		"identifierInNamespace": "R4",
+		"originalURI": "R4_carriers_provided_by"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 238,
+		"identifierInNamespace": "F22",
+		"originalURI": "F22_Self-Contained_Expression"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 251,
+		"identifierInNamespace": "F35",
+		"originalURI": "F35_Nomen_Use_Statement"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 243,
+		"identifierInNamespace": "F27",
+		"originalURI": "F27_Work_Conception"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 972,
+		"identifierInNamespace": "CLP57",
+		"originalURI": "CLP57_should_have_number_of_parts"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 250,
+		"identifierInNamespace": "F34",
+		"originalURI": "F34_KOS"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 259,
+		"identifierInNamespace": "F44",
+		"originalURI": "F44_Bibliographic_Agency"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 236,
+		"identifierInNamespace": "F20",
+		"originalURI": "F20_Performance_Work"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 246,
+		"identifierInNamespace": "F30",
+		"originalURI": "F30_Publication_Event"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1000,
+		"identifierInNamespace": "R26",
+		"originalURI": "R26_produced_things_of_type"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 248,
+		"identifierInNamespace": "F32",
+		"originalURI": "F32_Carrier_Production_Event"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1039,
+		"identifierInNamespace": "R66",
+		"originalURI": "R66_included_performed_version_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 974,
+		"identifierInNamespace": "CLP105",
+		"originalURI": "CLP105_right_held_by"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1002,
+		"identifierInNamespace": "R28",
+		"originalURI": "R28_produced"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 227,
+		"identifierInNamespace": "F11",
+		"originalURI": "F11_Corporate_Body"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1030,
+		"identifierInNamespace": "R57",
+		"originalURI": "R57_is_based_on"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 231,
+		"identifierInNamespace": "F15",
+		"originalURI": "F15_Complex_Work"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 987,
+		"identifierInNamespace": "R12",
+		"originalURI": "R12_is_realised_in"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 969,
+		"identifierInNamespace": "CLP43",
+		"originalURI": "CLP43_should_have_dimension"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 978,
+		"identifierInNamespace": "R3",
+		"originalURI": "R3_is_realised_in"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1025,
+		"identifierInNamespace": "M37",
+		"originalURI": "M37_Music_Scale"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1049,
+		"identifierInNamespace": "M5",
+		"originalURI": "M5_Genre"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1980,
+		"identifierInNamespace": "U185",
+		"originalURI": "U185_has_distribution_statement"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1029,
+		"identifierInNamespace": "M40",
+		"originalURI": "M40_Context"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1974,
+		"identifierInNamespace": "U17",
+		"originalURI": "U17_has_opus_statement"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 996,
+		"identifierInNamespace": "M16",
+		"originalURI": "M16_Maintenance"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1986,
+		"identifierInNamespace": "U191",
+		"originalURI": "U191_used_equalization_technique"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2077,
+		"identifierInNamespace": "U199",
+		"originalURI": "U199_has_sponsor"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2097,
+		"identifierInNamespace": "U48",
+		"originalURI": "U48_foresees_quantity_of_actors"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2026,
+		"identifierInNamespace": "U39",
+		"originalURI": "U39_has_tuned"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2016,
+		"identifierInNamespace": "U29",
+		"originalURI": "U29_edited"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2080,
+		"identifierInNamespace": "U202",
+		"originalURI": "U202_has_colour_details"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2014,
+		"identifierInNamespace": "U27",
+		"originalURI": "U27_performed_character"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1006,
+		"identifierInNamespace": "M1",
+		"originalURI": "M1_Catalogue_Statement"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1951,
+		"identifierInNamespace": "CLU207",
+		"originalURI": "CLU207_should_have_carrier_type"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2020,
+		"identifierInNamespace": "U33",
+		"originalURI": "U33_has_set_of_characters"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2034,
+		"identifierInNamespace": "U51",
+		"originalURI": "U51_is_partial_or_full_recording_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1954,
+		"identifierInNamespace": "CLU223",
+		"originalURI": "CLU223_should_have_number_of_tape_tracks"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1961,
+		"identifierInNamespace": "U168",
+		"originalURI": "U168_has_parallel_title"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1012,
+		"identifierInNamespace": "M25",
+		"originalURI": "M25_Foreseen_Activity"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2100,
+		"identifierInNamespace": "U68",
+		"originalURI": "U68_has_variant_title"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2036,
+		"identifierInNamespace": "U53",
+		"originalURI": "U53_has_duration"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2043,
+		"identifierInNamespace": "U5",
+		"originalURI": "U5_had_premiere"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2007,
+		"identifierInNamespace": "U225",
+		"originalURI": "U225_used_sound_spatialization_technique"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2040,
+		"identifierInNamespace": "U57",
+		"originalURI": "U57_occurred_in_religious_context"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2071,
+		"identifierInNamespace": "U95",
+		"originalURI": "U95_has_hierarchical_level"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2070,
+		"identifierInNamespace": "U94",
+		"originalURI": "U94_has_work_type"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1043,
+		"identifierInNamespace": "M53",
+		"originalURI": "M53_Noise_Reduction_Technique"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2030,
+		"identifierInNamespace": "U46",
+		"originalURI": "U46_occurred_in_context"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2103,
+		"identifierInNamespace": "U71",
+		"originalURI": "U71_has_uniform_title"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 985,
+		"identifierInNamespace": "M15",
+		"originalURI": "M15_Dedication_Statement"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1948,
+		"identifierInNamespace": "CLU197",
+		"originalURI": "CLU197_should_have_binding"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2022,
+		"identifierInNamespace": "U35",
+		"originalURI": "U35_foresees_function"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2035,
+		"identifierInNamespace": "U52",
+		"originalURI": "U52_has_context"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2101,
+		"identifierInNamespace": "U69",
+		"originalURI": "U69_has_WoO_number"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2000,
+		"identifierInNamespace": "U219",
+		"originalURI": "U219_used_object_of_type_for_mixing"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2042,
+		"identifierInNamespace": "U59",
+		"originalURI": "U59_has_partial_published_recording"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1047,
+		"identifierInNamespace": "M58",
+		"originalURI": "M58_Programming_Work"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1969,
+		"identifierInNamespace": "U175",
+		"originalURI": "U175_has_parallel_cast_statement"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2025,
+		"identifierInNamespace": "U38",
+		"originalURI": "U38_has_descriptive_expression"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2018,
+		"identifierInNamespace": "U31",
+		"originalURI": "U31_had_function"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2001,
+		"identifierInNamespace": "U21",
+		"originalURI": "U21_is_about_actor"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1013,
+		"identifierInNamespace": "M26",
+		"originalURI": "M26_Foreseen_Performance"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1035,
+		"identifierInNamespace": "M46",
+		"originalURI": "M46_Set_of_Tracks"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 995,
+		"identifierInNamespace": "M169",
+		"originalURI": "M169_Carrier_Type"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1964,
+		"identifierInNamespace": "U170",
+		"originalURI": "U170_has_title_statement"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1045,
+		"identifierInNamespace": "M55",
+		"originalURI": "M55_Condition_of_Performance"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1021,
+		"identifierInNamespace": "M33",
+		"originalURI": "M33_Set_of_Characters"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2011,
+		"identifierInNamespace": "U24",
+		"originalURI": "U24_has_award"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1017,
+		"identifierInNamespace": "M2",
+		"originalURI": "M2_Opus_Statement"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1981,
+		"identifierInNamespace": "U186",
+		"originalURI": "U186_has_printing_or_manufacture_statement"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1950,
+		"identifierInNamespace": "CLU206",
+		"originalURI": "CLU206_should_have_media_type"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1978,
+		"identifierInNamespace": "U183",
+		"originalURI": "U183_has_parallel_music_format_statement"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2095,
+		"identifierInNamespace": "U42",
+		"originalURI": "U42_has_opus_number"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1970,
+		"identifierInNamespace": "U176",
+		"originalURI": "U176_has_edition_statement"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2072,
+		"identifierInNamespace": "U96",
+		"originalURI": "U96_foresees_vocal_or_instrumental_technique"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2047,
+		"identifierInNamespace": "U63",
+		"originalURI": "U63_has_religious_context"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1953,
+		"identifierInNamespace": "CLU217",
+		"originalURI": "CLU217_should_have_playing_speed"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2032,
+		"identifierInNamespace": "U49",
+		"originalURI": "U49_created_for_actor"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1979,
+		"identifierInNamespace": "U184",
+		"originalURI": "U184_has_publication_statement"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2041,
+		"identifierInNamespace": "U58",
+		"originalURI": "U58_has_full_published_recording"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2093,
+		"identifierInNamespace": "U3",
+		"originalURI": "U3_foresees_use_of_specific_object"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2093,
+		"identifierInNamespace": "U3",
+		"originalURI": "U3_foresees_use_of_specific_object"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1949,
+		"identifierInNamespace": "CLU198",
+		"originalURI": "CLU198_should_have_container"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2106,
+		"identifierInNamespace": "U79",
+		"originalURI": "U79_has_lowest_pitch"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 976,
+		"identifierInNamespace": "M12",
+		"originalURI": "M12_Opus_Number"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2067,
+		"identifierInNamespace": "U91",
+		"originalURI": "U91_put_into_effect"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2028,
+		"identifierInNamespace": "U44",
+		"originalURI": "U44_has_dedication_statement"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2078,
+		"identifierInNamespace": "U200",
+		"originalURI": "U200_has_supplementary_content"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1009,
+		"identifierInNamespace": "M22",
+		"originalURI": "M22_Form"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2074,
+		"identifierInNamespace": "U15",
+		"originalURI": "U15_has_history"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2006,
+		"identifierInNamespace": "U224",
+		"originalURI": "U224_has_title_proper_of_multipart_monograph"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1010,
+		"identifierInNamespace": "M23",
+		"originalURI": "M23_Casting_Detail"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1014,
+		"identifierInNamespace": "M27",
+		"originalURI": "M27_Foreseen_Individual_Performance"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1026,
+		"identifierInNamespace": "M38",
+		"originalURI": "M38_Rhythmic_Pattern"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1001,
+		"identifierInNamespace": "M174",
+		"originalURI": "M174_Content_Type"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1993,
+		"identifierInNamespace": "U206",
+		"originalURI": "U206_has_media_type"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1956,
+		"identifierInNamespace": "U11",
+		"originalURI": "U11_has_key"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2055,
+		"identifierInNamespace": "U77",
+		"originalURI": "U77_foresees_performing_plan"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1002,
+		"identifierInNamespace": "M175",
+		"originalURI": "M175_Music_Format"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2004,
+		"identifierInNamespace": "U222",
+		"originalURI": "U222_has_title_proper_of_sub-series"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1955,
+		"identifierInNamespace": "CLU53",
+		"originalURI": "CLU53_should_have_duration"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 980,
+		"identifierInNamespace": "M155",
+		"originalURI": "M155_Cast_Statement"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2052,
+		"identifierInNamespace": "U73",
+		"originalURI": "U73_is_derivative_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2079,
+		"identifierInNamespace": "U201",
+		"originalURI": "U201_has_illustrative_content"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1050,
+		"identifierInNamespace": "M60",
+		"originalURI": "M60_Intended_Audience"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1052,
+		"identifierInNamespace": "M62",
+		"originalURI": "M62_Hierarchical_Level"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1952,
+		"identifierInNamespace": "CLU210",
+		"originalURI": "CLU210_should_have_pagination"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1966,
+		"identifierInNamespace": "U172",
+		"originalURI": "U172_has_statement_of_responsibility_relating_to_title"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2088,
+		"identifierInNamespace": "U215",
+		"originalURI": "U215_has_groove_caracteristics"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1968,
+		"identifierInNamespace": "U174",
+		"originalURI": "U174_has_cast_statement"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2044,
+		"identifierInNamespace": "U60",
+		"originalURI": "U60_occurred_in_cultural_context"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1048,
+		"identifierInNamespace": "M59",
+		"originalURI": "M59_Program"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2064,
+		"identifierInNamespace": "U89",
+		"originalURI": "U89_occured_in_performance_conditions"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2048,
+		"identifierInNamespace": "U64",
+		"originalURI": "U64_has_cultural_context"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1973,
+		"identifierInNamespace": "U179",
+		"originalURI": "U179_has_parallel_statement_of_responsibility_relating_to_edition"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2021,
+		"identifierInNamespace": "U34",
+		"originalURI": "U34_foresees_character"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 983,
+		"identifierInNamespace": "M158",
+		"originalURI": "M158_Title_and_Statement_of_Responsibility"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1976,
+		"identifierInNamespace": "U181",
+		"originalURI": "U181_has_parallel_additional_edition_statement"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1994,
+		"identifierInNamespace": "U207",
+		"originalURI": "U207_has_carrier_type"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2068,
+		"identifierInNamespace": "U92",
+		"originalURI": "U92_is_foreseen_to_be_put_into_effect_through"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2068,
+		"identifierInNamespace": "U92",
+		"originalURI": "U92_is_foreseen_to_be_put_into_effect_through"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1958,
+		"identifierInNamespace": "U13",
+		"originalURI": "U13_has_casting"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1987,
+		"identifierInNamespace": "U192",
+		"originalURI": "U192_used_noise_reduction_technique"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1016,
+		"identifierInNamespace": "M29",
+		"originalURI": "M29_Editing"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2107,
+		"identifierInNamespace": "U80",
+		"originalURI": "U80_has_highest_pitch"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1028,
+		"identifierInNamespace": "M3",
+		"originalURI": "M3_Order_Number"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2063,
+		"identifierInNamespace": "U88",
+		"originalURI": "U88_has_medium_of_performance_section"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1984,
+		"identifierInNamespace": "U189",
+		"originalURI": "U189_has_main_series_statement"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2019,
+		"identifierInNamespace": "U32",
+		"originalURI": "U32_had_responsibility"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1972,
+		"identifierInNamespace": "U178",
+		"originalURI": "U178_has_statement_of_responsibility_relating_to_edition"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2104,
+		"identifierInNamespace": "U72",
+		"originalURI": "U72_has_title_note"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2015,
+		"identifierInNamespace": "U28",
+		"originalURI": "U28_has_ambitus"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2012,
+		"identifierInNamespace": "U25",
+		"originalURI": "U25_has_scale"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2082,
+		"identifierInNamespace": "U204",
+		"originalURI": "U204_has_reproduction_note"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2053,
+		"identifierInNamespace": "U74",
+		"originalURI": "U74_cited"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2027,
+		"identifierInNamespace": "U40",
+		"originalURI": "U40_has_catalogue_name"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1990,
+		"identifierInNamespace": "U198",
+		"originalURI": "U198_has_container"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 999,
+		"identifierInNamespace": "M172",
+		"originalURI": "M172_Colour_Content"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1977,
+		"identifierInNamespace": "U182",
+		"originalURI": "U182_has_music_format_statement"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 982,
+		"identifierInNamespace": "M157",
+		"originalURI": "M157_Statement_of_Responsibility"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2031,
+		"identifierInNamespace": "U47",
+		"originalURI": "U47_has_derivation_type"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1963,
+		"identifierInNamespace": "U16",
+		"originalURI": "U16_has_catalogue_statement"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2083,
+		"identifierInNamespace": "U205",
+		"originalURI": "U205_has_cast_detail"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 978,
+		"identifierInNamespace": "M14",
+		"originalURI": "M14_Medium_Of_Performance"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1005,
+		"identifierInNamespace": "M19",
+		"originalURI": "M19_Categorization"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1995,
+		"identifierInNamespace": "U20",
+		"originalURI": "U20_has_music_group_formation"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2076,
+		"identifierInNamespace": "U194",
+		"originalURI": "U194_has_system_requirements"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2065,
+		"identifierInNamespace": "U8",
+		"originalURI": "U8_foresees_time_span"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 979,
+		"identifierInNamespace": "M154",
+		"originalURI": "M154_Label_Name"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2039,
+		"identifierInNamespace": "U56",
+		"originalURI": "U56_occurred_in_historical_context"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2091,
+		"identifierInNamespace": "U228",
+		"originalURI": "U228_has_other_distinguishing_characteristic_of_expression"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1033,
+		"identifierInNamespace": "M44",
+		"originalURI": "M44_Performed_Work"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2024,
+		"identifierInNamespace": "U37",
+		"originalURI": "U37_foresees_performing_character"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1988,
+		"identifierInNamespace": "U195",
+		"originalURI": "U195_has_order_or_location_indication"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 975,
+		"identifierInNamespace": "M11",
+		"originalURI": "M11_Catalogue_Number"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1032,
+		"identifierInNamespace": "M43",
+		"originalURI": "M43_Performed_Expression"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1011,
+		"identifierInNamespace": "M24",
+		"originalURI": "M24_Track"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1038,
+		"identifierInNamespace": "M49",
+		"originalURI": "M49_Performer_Status"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2037,
+		"identifierInNamespace": "U54",
+		"originalURI": "U54_is_performed_expression_of"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1998,
+		"identifierInNamespace": "U217",
+		"originalURI": "U217_has_playing_speed"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2061,
+		"identifierInNamespace": "U85",
+		"originalURI": "U85_has_closely_related_key"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1975,
+		"identifierInNamespace": "U180",
+		"originalURI": "U180_has_additional_edition_statement"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1003,
+		"identifierInNamespace": "M17",
+		"originalURI": "M17_Controlled_Access_Point_Creator"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1024,
+		"identifierInNamespace": "M36",
+		"originalURI": "M36_Award"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1023,
+		"identifierInNamespace": "M35",
+		"originalURI": "M35_Representative_Publication_Assignment"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2090,
+		"identifierInNamespace": "U226",
+		"originalURI": "U226_has_responsibility_detail"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1957,
+		"identifierInNamespace": "U12",
+		"originalURI": "U12_has_genre"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1985,
+		"identifierInNamespace": "U18",
+		"originalURI": "U18_has_rhythmic_pattern"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2085,
+		"identifierInNamespace": "U211",
+		"originalURI": "U211_has_composition_of_material"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1018,
+		"identifierInNamespace": "M30",
+		"originalURI": "M30_Ambitus"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2056,
+		"identifierInNamespace": "U7",
+		"originalURI": "U7_foresees_place_at"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2046,
+		"identifierInNamespace": "U62",
+		"originalURI": "U62_has_form"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2092,
+		"identifierInNamespace": "U30",
+		"originalURI": "U30_foresees_quantity_of_mop"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2002,
+		"identifierInNamespace": "U220",
+		"originalURI": "U220_has_title_and_statement_of_responsibility"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1055,
+		"identifierInNamespace": "M8",
+		"originalURI": "M8_Tempo"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2084,
+		"identifierInNamespace": "U208",
+		"originalURI": "U208_has_extent_of_carrier"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2049,
+		"identifierInNamespace": "U65",
+		"originalURI": "U65_has_geographical_context"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1965,
+		"identifierInNamespace": "U171",
+		"originalURI": "U171_has_parallel_title_statement"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1008,
+		"identifierInNamespace": "M21",
+		"originalURI": "M21_Harmonic_Structure"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1000,
+		"identifierInNamespace": "M173",
+		"originalURI": "M173_Playing_Speed"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 987,
+		"identifierInNamespace": "M161",
+		"originalURI": "M161_Distribution_Statement"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 986,
+		"identifierInNamespace": "M160",
+		"originalURI": "M160_Publication_Statement"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 990,
+		"identifierInNamespace": "M164",
+		"originalURI": "M164_Multipart_Monograph_Statement"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 992,
+		"identifierInNamespace": "M166",
+		"originalURI": "M166_Title_Proper_of_Multipart_Monograph"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2096,
+		"identifierInNamespace": "U43",
+		"originalURI": "U43_has_opus_subnumber"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2057,
+		"identifierInNamespace": "U81",
+		"originalURI": "U81_had_performer_status"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1983,
+		"identifierInNamespace": "U188",
+		"originalURI": "U188_has_series_statement"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2108,
+		"identifierInNamespace": "U9",
+		"originalURI": "U9_has_quantity"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2054,
+		"identifierInNamespace": "U75",
+		"originalURI": "U75_has_harmonic_structure"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1051,
+		"identifierInNamespace": "M61",
+		"originalURI": "M61_Work_Type"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 989,
+		"identifierInNamespace": "M163",
+		"originalURI": "M163_Music_Format_Statement"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2098,
+		"identifierInNamespace": "U50",
+		"originalURI": "U50_has_annotation"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1054,
+		"identifierInNamespace": "M7",
+		"originalURI": "M7_Linguistic_Appellation"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1004,
+		"identifierInNamespace": "M18",
+		"originalURI": "M18_Controlled_Access_Point_Denomination"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 988,
+		"identifierInNamespace": "M162",
+		"originalURI": "M162_Series_Statement"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2033,
+		"identifierInNamespace": "U4",
+		"originalURI": "U4_had_princeps_publication"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2102,
+		"identifierInNamespace": "U70",
+		"originalURI": "U70_has_original_title"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2045,
+		"identifierInNamespace": "U61",
+		"originalURI": "U61_occurred_in_geographical_context"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1960,
+		"identifierInNamespace": "U167",
+		"originalURI": "U167_has_title_proper"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2017,
+		"identifierInNamespace": "U2",
+		"originalURI": "U2_foresees_use_of_medium_of_performance"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1015,
+		"identifierInNamespace": "M28",
+		"originalURI": "M28_Individual_Performance"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 994,
+		"identifierInNamespace": "M168",
+		"originalURI": "M168_Media_Type"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2087,
+		"identifierInNamespace": "U213",
+		"originalURI": "U213_has_recording_method"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1020,
+		"identifierInNamespace": "M32",
+		"originalURI": "M32_Actor_Responsibility"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1056,
+		"identifierInNamespace": "M9",
+		"originalURI": "M9_Derivation_Type"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2013,
+		"identifierInNamespace": "U26",
+		"originalURI": "U26_has_maintained"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1034,
+		"identifierInNamespace": "M45",
+		"originalURI": "M45_Descriptive_Expression_Assignment"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2089,
+		"identifierInNamespace": "U216",
+		"originalURI": "U216_has_tape_configuration"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1991,
+		"identifierInNamespace": "U19",
+		"originalURI": "U19_is_categorized_as"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1007,
+		"identifierInNamespace": "M20",
+		"originalURI": "M20_Music_Group_Formation"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 998,
+		"identifierInNamespace": "M171",
+		"originalURI": "M171_Container"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1959,
+		"identifierInNamespace": "U14",
+		"originalURI": "U14_has_tempo"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2029,
+		"identifierInNamespace": "U45",
+		"originalURI": "U45_has_metronome_indication"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2060,
+		"identifierInNamespace": "U84",
+		"originalURI": "U84_has_parallel_key"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1992,
+		"identifierInNamespace": "U1",
+		"originalURI": "U1_used_medium_of_performance"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2023,
+		"identifierInNamespace": "U36",
+		"originalURI": "U36_foresees_responsibility"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2066,
+		"identifierInNamespace": "U90",
+		"originalURI": "U90_foresees_creation_or_performance_mode"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1042,
+		"identifierInNamespace": "M52",
+		"originalURI": "M52_Equalization_Technique"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1962,
+		"identifierInNamespace": "U169",
+		"originalURI": "U169_was_issued_under_label_name"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 977,
+		"identifierInNamespace": "M13",
+		"originalURI": "M13_Opus_Subnumber"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2038,
+		"identifierInNamespace": "U55",
+		"originalURI": "U55_incorporates_performed_expression"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1999,
+		"identifierInNamespace": "U218",
+		"originalURI": "U218_used_object_of_type_for_mastering"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2086,
+		"identifierInNamespace": "U212",
+		"originalURI": "U212_has_technical_features"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2099,
+		"identifierInNamespace": "U67",
+		"originalURI": "U67_has_subtitle"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1053,
+		"identifierInNamespace": "M6",
+		"originalURI": "M6_Casting"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 974,
+		"identifierInNamespace": "M10",
+		"originalURI": "M10_Catalogue_Name"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1037,
+		"identifierInNamespace": "M48",
+		"originalURI": "M48_WoO_Subnumber"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1044,
+		"identifierInNamespace": "M54",
+		"originalURI": "M54_Sound_Spatialization_Technique"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1971,
+		"identifierInNamespace": "U177",
+		"originalURI": "U177_has_parallel_edition_statement"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1967,
+		"identifierInNamespace": "U173",
+		"originalURI": "U173_has_parallel_statement_of_responsibility_relating_to_title"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1036,
+		"identifierInNamespace": "M47",
+		"originalURI": "M47_WoO_Number"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 981,
+		"identifierInNamespace": "M156",
+		"originalURI": "M156_Title_Statement"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1019,
+		"identifierInNamespace": "M31",
+		"originalURI": "M31_Actor_Function"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1022,
+		"identifierInNamespace": "M34",
+		"originalURI": "M34_Award_Assignment"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1997,
+		"identifierInNamespace": "U214",
+		"originalURI": "U214_has_colour_content"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1039,
+		"identifierInNamespace": "M4",
+		"originalURI": "M4_Key"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 997,
+		"identifierInNamespace": "M170",
+		"originalURI": "M170_Binding"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2075,
+		"identifierInNamespace": "U193",
+		"originalURI": "U193_used_historical_instruments"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1027,
+		"identifierInNamespace": "M39",
+		"originalURI": "M39_Derivation_Type_Assignment"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2105,
+		"identifierInNamespace": "U76",
+		"originalURI": "U76_has_WoO_subnumber"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1040,
+		"identifierInNamespace": "M50",
+		"originalURI": "M50_Creation_or_Performance_Mode"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 991,
+		"identifierInNamespace": "M165",
+		"originalURI": "M165_Title_Proper_of_Series"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2094,
+		"identifierInNamespace": "U41",
+		"originalURI": "U41_has_catalogue_number"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2008,
+		"identifierInNamespace": "U229",
+		"originalURI": "U229_has_music_format"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2005,
+		"identifierInNamespace": "U223",
+		"originalURI": "U223_has_number_of_tape_tracks"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2058,
+		"identifierInNamespace": "U82",
+		"originalURI": "U82_has_foreseen_performer_status"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1030,
+		"identifierInNamespace": "M41",
+		"originalURI": "M41_Metronome_Indication"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2069,
+		"identifierInNamespace": "U93",
+		"originalURI": "U93_is_realised_in"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2051,
+		"identifierInNamespace": "U6",
+		"originalURI": "U6_foresees_actor"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2003,
+		"identifierInNamespace": "U221",
+		"originalURI": "U221_has_title_proper_of_series"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 993,
+		"identifierInNamespace": "M167",
+		"originalURI": "M167_Publication_Expression_Fragment"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2062,
+		"identifierInNamespace": "U87",
+		"originalURI": "U87_has_member_casting_detail"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1996,
+		"identifierInNamespace": "U210",
+		"originalURI": "U210_has_pagination"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2073,
+		"identifierInNamespace": "U10",
+		"originalURI": "U10_has_order_number"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1041,
+		"identifierInNamespace": "M51",
+		"originalURI": "M51_Type_Of_Recording_Equipment"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2010,
+		"identifierInNamespace": "U23",
+		"originalURI": "U23_has_casting_detail"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2081,
+		"identifierInNamespace": "U203",
+		"originalURI": "U203_has_summary_or_abstract"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1989,
+		"identifierInNamespace": "U197",
+		"originalURI": "U197_has_binding"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1046,
+		"identifierInNamespace": "M57",
+		"originalURI": "M57_Vocal_or_Instrumental_Technique"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 984,
+		"identifierInNamespace": "M159",
+		"originalURI": "M159_Edition_Statement"
+	},
+	{
+		"objectType": "class",
+		"pkOntome": 1031,
+		"identifierInNamespace": "M42",
+		"originalURI": "M42_Performed_Expression_Creation"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2009,
+		"identifierInNamespace": "U22",
+		"originalURI": "U22_is_about_place"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2050,
+		"identifierInNamespace": "U66",
+		"originalURI": "U66_has_historical_context"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 2059,
+		"identifierInNamespace": "U83",
+		"originalURI": "U83_has_relative_key"
+	},
+	{
+		"objectType": "property",
+		"pkOntome": 1982,
+		"identifierInNamespace": "U187",
+		"originalURI": "U187_has_multipart_monographs_statement"
+	}
+]

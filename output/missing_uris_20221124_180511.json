@@ -1,0 +1,19 @@
+{
+	"http://www.cidoc-crm.org/cidoc-crm/CRMarchaeo/": [],
+	"http://www.ics.forth.gr/isl/CRMgeo/": [],
+	"http://www.opengis.net/ont/geosparql#": [
+		{"objectType": "property", "pkOntome": 1788, "identifierInNamespace": "hasDefaultGeometry"}
+	],
+	"http://www.cidoc-crm.org/cidoc-crm/": [
+		{"objectType": "class", "pkOntome": 335, "identifierInNamespace": "E61"},
+		{"objectType": "class", "pkOntome": 950, "identifierInNamespace": "E95"},
+		{"objectType": "class", "pkOntome": 336, "identifierInNamespace": "E94"},
+		{"objectType": "class", "pkOntome": 337, "identifierInNamespace": "E59"},
+		{"objectType": "class", "pkOntome": 339, "identifierInNamespace": "E62"},
+		{"objectType": "class", "pkOntome": 338, "identifierInNamespace": "E60"},
+		{"objectType": "property", "pkOntome": 1898, "identifierInNamespace": "P170"},
+		{"objectType": "property", "pkOntome": 1897, "identifierInNamespace": "P169"}
+	],
+	"http://iflastandards.info/ns/fr/frbr/frbroo/": [],
+	"http://data.doremus.org/ontology#": []
+}
