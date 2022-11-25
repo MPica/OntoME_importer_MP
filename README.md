@@ -6,6 +6,7 @@ This repository contains the scripts which transform an RDF ontology file into t
 The scripts included here may be executed via [Jupyter Notebook](https://jupyter.org/), if all the necessary Python libraries are installed (always see first code cell).
 * [graph_to_ontome.ipynb](graph_to_ontome.ipynb) is the main script here, transforming a serialization into the OntoME import format. Any input format supported by RDFlib may be imported here.
 * [import_crm.ipynb](import_crm.ipynb) is the state of the script before RDFlib was integrated and necessitates an RDFS-XML input file.
+* [get_original_uris.ipynb](get_original_uris.ipynb) imports the unique information of all classes and properties in OntoME, on one side, and the ontologies of the namespaces external to OntoME, on the other side, in order to match the original URIs of each object and import them in OntoME.
 * [xml_to_dict.ipynb](xml_to_dict.ipynb) uses the Python xmltodict library, to output a Json file from any XML file.
 * [ttl-to-rdfs.ipynb](ttl-to-rdf.ipynb) uses RDFlib to transform a Turtle format file into an XML-RDFs file.
 
