@@ -37,6 +37,13 @@
                                                 </xs:restriction>
                                             </xs:simpleType>
                                         </xs:element>
+                                        <xs:element name="identifierInURI" minOccurs="0" maxOccurs="1">
+                                            <xs:simpleType>
+                                                <xs:restriction base="xs:string">
+                                                    <xs:pattern value="\S+"/>
+                                                </xs:restriction>
+                                            </xs:simpleType>
+                                        </xs:element>
                                         <xs:element name="standardLabel" maxOccurs="unbounded">
                                             <xs:complexType>
                                                 <xs:simpleContent>
@@ -102,10 +109,17 @@
                                 <xs:complexType>
                                     <xs:sequence>
                                         <xs:element name="identifierInNamespace" type="xs:string" minOccurs="0" maxOccurs="1" />
+                                        <xs:element name="identifierInURI" minOccurs="0" maxOccurs="1">
+                                            <xs:simpleType>
+                                                <xs:restriction base="xs:string">
+                                                    <xs:pattern value="\S+"/>
+                                                </xs:restriction>
+                                            </xs:simpleType>
+                                        </xs:element>
                                         <xs:element name="label" maxOccurs="unbounded">
                                             <xs:complexType>
                                                 <xs:sequence>
-                                                    <xs:element name="standardLabel" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+                                                    <xs:element name="standardLabel" type="xs:string"/>
                                                     <xs:element name="inverseLabel" type="xs:string" minOccurs="0"/>
                                                 </xs:sequence>
                                                 <xs:attribute name="lang" use="required" type="xs:language" />
