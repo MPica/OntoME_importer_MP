@@ -62,6 +62,15 @@
                                                 </xs:simpleContent>
                                             </xs:complexType>
                                         </xs:element>
+                                        <xs:element minOccurs="0" maxOccurs="unbounded" name="parentClassOf">
+                                            <xs:complexType>
+                                                <xs:simpleContent>
+                                                    <xs:extension base="xs:string">
+                                                        <xs:attribute name="referenceNamespace" type="xs:positiveInteger" use="optional" />
+                                                    </xs:extension>
+                                                </xs:simpleContent>
+                                            </xs:complexType>
+                                        </xs:element>
                                         <xs:element minOccurs="0" maxOccurs="unbounded" name="equivalentClass">
                                             <xs:complexType>
                                                 <xs:simpleContent>
@@ -126,6 +135,15 @@
                                             </xs:complexType>
                                         </xs:element>
                                         <xs:element minOccurs="0" maxOccurs="unbounded" name="subPropertyOf">
+                                            <xs:complexType>
+                                                <xs:simpleContent>
+                                                    <xs:extension base="xs:string">
+                                                        <xs:attribute name="referenceNamespace" type="xs:positiveInteger" use="optional" />
+                                                    </xs:extension>
+                                                </xs:simpleContent>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element minOccurs="0" maxOccurs="unbounded" name="parentPropertyOf">
                                             <xs:complexType>
                                                 <xs:simpleContent>
                                                     <xs:extension base="xs:string">
